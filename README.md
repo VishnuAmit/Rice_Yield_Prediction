@@ -39,3 +39,8 @@
 ## 📊 Conclusion
 <p align="justify"> In conclusion, this project successfully developed a regression model for predicting rice yield in Vietnam utilizing satellite data. With a high R2 score and robust performance on the test dataset, the model demonstrates potential applicability beyond the Chau Thanh, Thoai Son, and Chau Phu regions. Future extensions could involve predicting rice yield in other Vietnamese regions and potentially extending the model to forecast yields for different crops and regions worldwide. </p>
 
+## ✍️ Authors <a name = "authors"></a>
+- [@VishnuAmit](https://github.com/VishnuAmit) 
+- [@roshangeorge97](https://github.com/roshangeorge97)
+- [@AkileshRaoS](https://github.com/AkileshRaoS)
+-
